@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-CTO@wdecloud.com, ex-web architect at Baidu Inc, experienced technical architect with a demonstrated history of working in the internet industry.
+CTO@wdecloud.com, ex-web architect at Baidu Inc, experienced technical architect with a demonstrated history of working in the internet and education industry.
 
 <table><tr><td valign="top">
 
@@ -35,7 +35,7 @@ CTO@wdecloud.com, ex-web architect at Baidu Inc, experienced technical architect
 * [M3D, an automatic development, debug and deployment integration platform for Baidu FE/RD/OP](https://github.com/enimo/m3d)-\[[slides](https://886.enimo.cn/fe8899/instantmerge/)\] - 2015-07-01
 * [Muplayer, An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms](https://886.enimo.cn/muplayer/doc/) - 2018-06-26
 <!-- works ends -->
-More on [workshop](https://github.com/enimo?tab=repositories)
+More on [Workshop](https://github.com/enimo?tab=repositories)
 </td><td valign="top">
 
 ### Demos and Labs
@@ -46,5 +46,5 @@ More on [workshop](https://github.com/enimo?tab=repositories)
 * [Sexy Location Algorithm, Uniform random distribution of dynamic music bubbles](https://886.enimo.cn/fe8899/musiclib/) - 2013-06-29
 * [MiniPipe, A minimal prototype of facebook pipeline](https://886.enimo.cn/fe8899/backforward/) - 2012-06-17
 <!-- demos ends -->
-More on [Rocky Lab](https://886.enimo.cn/)
+More on [RockyLab](https://886.enimo.cn/)
 </td></tr></table>
