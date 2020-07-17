@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-CTO@wdecloud.com, ex-web architect at Baidu Inc, experienced technical architect with a demonstrated history of working in the internet and education industry.
+CTO AT wdecloud.com, ex-Web architect at Baidu Inc, experienced technical architect with a demonstrated history of working in the internet and education industry.
 
 <table><tr><td valign="top">
 
@@ -22,7 +22,7 @@ CTO@wdecloud.com, ex-web architect at Baidu Inc, experienced technical architect
 * [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
 * [Mediasoup build patch: v3-CLT-build-fix](https://github.com/enimo/mediasoup/commit/4b5cab397225ce145be6833c5b1dda2d1eb5487e) - 2020-06-15
 * [Flee Game](http://flee.enimo.cn/) - 2020-05-13
-* [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) - 2020-04-08
+* [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) + [12factor](https://12factor.net/codebase) - 2020-04-08
 <!-- recent feed ends -->
 <!-- More [recent activity](https://github.com/enimo) -->
 </td><td valign="top">
