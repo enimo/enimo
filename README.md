@@ -12,13 +12,12 @@
 - ⚡ Fun fact: ...
 -->
 
-CTO AT wdecloud.com, ex-Web architect at Baidu Inc, experienced technical architect with a demonstrated history of working in the internet and education industry.
 
 <table><tr><td valign="top">
 
 ### Recent activity
 <!-- recent feed starts -->
-* [Do not follow javascript trends](https://pragmaticpineapple.com/do-not-follow-javascript-trends/) - 2020-07-14
+* [The Road to Superintelligence AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - 2020-07-14
 * [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
 * [Mediasoup build patch: v3-CLT-build-fix](https://github.com/enimo/mediasoup/commit/4b5cab397225ce145be6833c5b1dda2d1eb5487e) - 2020-06-15
 * [Flee Game](http://flee.enimo.cn/) - 2020-05-13
