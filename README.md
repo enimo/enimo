@@ -17,13 +17,16 @@
 
 ### Recent activity
 <!-- recent feed starts -->
+* [Is Node.js Really Single-Threaded?](https://medium.com/better-programming/is-node-js-really-single-threaded-7ea59bcc8d64) - 2020-07-24
 * [The Road to Superintelligence AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - 2020-07-14
-* [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
 * [Mediasoup build patch: v3-CLT-build-fix](https://github.com/enimo/mediasoup/commit/4b5cab397225ce145be6833c5b1dda2d1eb5487e) - 2020-06-15
 * [Flee Game](http://flee.enimo.cn/) - 2020-05-13
-* [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) + [12factor](https://12factor.net/codebase) - 2020-04-08
-<!-- recent feed ends -->
-<!-- More [recent activity](https://github.com/enimo) -->
+* [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) - 2020-04-08
+<!--
+* [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
+* [12factor](https://12factor.net/codebase) - 2020-03-12
+More [recent activity](https://github.com/enimo) 
+-->
 </td><td valign="top">
 
 ### My workshop
