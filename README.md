@@ -22,8 +22,8 @@
 * [Mediasoup build patch: v3-CLT-build-fix](https://github.com/enimo/mediasoup/commit/4b5cab397225ce145be6833c5b1dda2d1eb5487e) - 2020-06-15
 * [Flee Game](http://flee.enimo.cn/) - 2020-05-13
 * [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) - 2020-04-08
-<!--
 * [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
+<!--
 * [12factor](https://12factor.net/codebase) - 2020-03-12
 More [recent activity](https://github.com/enimo) 
 -->
