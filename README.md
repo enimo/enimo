@@ -22,8 +22,8 @@
 * [Mediasoup build patch: v3-CLT-build-fix](https://github.com/enimo/mediasoup/commit/4b5cab397225ce145be6833c5b1dda2d1eb5487e) - 2020-06-15
 * [Flee Game](http://flee.enimo.cn/) - 2020-05-13
 * [Micro Frontends Practice](https://martinfowler.com/articles/micro-frontends.html) - 2020-04-08
-* [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
 <!--
+* [Visualgo, algorithm visualization](https://visualgo.net/en) - 2020-07-08
 * [12factor](https://12factor.net/codebase) - 2020-03-12
 More [recent activity](https://github.com/enimo) 
 -->
@@ -42,7 +42,7 @@ More on [Workshop](https://github.com/enimo?tab=repositories)
 
 ### Demos and Labs
 <!-- demos starts -->
-* [We Meeting - Video Conference based Mediasoup](https://meet.enimo.cn/) - 2020-08-10
+* [We Meeting - Video Conference based on Mediasoup](https://meet.enimo.cn/) - 2020-08-10
 * [Apes ADPlay Engine, a simple advertising audio playback engine for Baidu](https://886.enimo.cn/demo/apes/) - 2020-07-14
 * [Real-time audio track switching solution for Baidu Music](https://886.enimo.cn/fe8899/switchquality/)-\[[showcase](https://886.enimo.cn/demo/audiolab/)\] - 2020-07-11
 * [Wave Chat, a live chat component for Web and Android](http://wave.enimo.cn/wave) - 2013-07-10
