@@ -31,7 +31,7 @@ More [recent activity](https://github.com/enimo)
 
 ### My workshop
 <!-- works starts -->
-* [Mediasoup, Cutting Edge WebRTC Video Conferencing](https://github.com/enimo/mediasoup) - 2020-06-02
+* [WebRTC Video Meeting via mediasoup](https://github.com/enimo/we-meeting) - 2020-08-08
 * [A Simple AMD loader Implementation, subset of Asynchronous Module Definition API](https://github.com/enimo/amd-loader) - 2019-07-10
 * [Proxys, A easy way to share PC network with mobile device, and capture network traffic to debug mobile app](https://www.npmjs.com/package/proxys) - 2016-07-09
 * [M3D, an automatic development, debug and deployment integration platform for Baidu FE/RD/OP](https://github.com/enimo/m3d)-\[[slides](https://886.enimo.cn/fe8899/instantmerge/)\] - 2015-07-01
