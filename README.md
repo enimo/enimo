@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/github-metrics.svg)
 
 <table><tr><td valign="top">
 
