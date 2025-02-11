@@ -14,6 +14,13 @@
 
 ![Metrics](/github-metrics.svg)
 
+[<img align="left" width="390" alt="🦑" src="/github-metrics.svg">](https://github.com/sponsors/enimo)
+
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
+
 <table><tr><td valign="top">
 
 ### Recent activity
