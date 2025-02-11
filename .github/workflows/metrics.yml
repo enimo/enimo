@@ -74,3 +74,12 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Asia/Shanghai
+
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
