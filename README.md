@@ -14,9 +14,9 @@
 
 
 <!-- [<img align="left" width="390" alt="🦑" src="/github-metrics.svg">](https://github.com/sponsors/enimo) -->
-[<img align="left" width="390" alt="🦑" src="/metrics.base.svg">](https://github.com/sponsors/enimo)
+[<img align="left" width="390" alt="🦑" src="/metrics.base.svg">](#)
 [<img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.indepth.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.achievements.compact.svg">](#)
+[<img align="right" width="390" alt="🦑" src="/metrics.plugin.achievements.compact.svg">](https://github.com/sponsors/enimo)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
