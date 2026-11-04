@@ -26,7 +26,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           
       - name: Compact display
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
